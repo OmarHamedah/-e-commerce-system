@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/E_CommerceSystem/.vs/E_CommerceSystem
+/E_CommerceSystem/E_CommerceSystem/obj/Debug/net8.0/E_CommerceSystem.AssemblyInfo.cs
+/E_CommerceSystem/E_CommerceSystem/obj/Debug/net8.0/E_CommerceSystem.AssemblyInfoInputs.cache
